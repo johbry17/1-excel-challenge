@@ -1,23 +1,21 @@
 ## Module 1 Challenge, 15 JUN 2023, Excel Challenge
 
-Specs below
-
-Background
+## Background
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-Before You Begin
+## Before You Begin
 Create a new space for this project called excel-challenge in either Dropbox or Google Drive. Do not add this Challenge to an existing repository.
 
 Store your Excel workbooks here in this new space, and create a sharable link for submission.
 
-Files
+## Files
 Download the following files to help you get started:
 
 Module 1 Challenge filesLinks to an external site.
 
-Instructions
+## Instructions
 A table contains a database of 1,000 sample crowdfunding projects.
 
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
@@ -65,7 +63,7 @@ What are some limitations of this dataset?
 
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-Crowfunding Goal Analysis
+## Crowfunding Goal Analysis
 Create a new sheet with 8 columns:
 
 Goal
@@ -118,7 +116,7 @@ Add up each of the values in the Number Successful, Number Failed, and Number Ca
 
 Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-Statistical Analysis
+## Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
@@ -145,13 +143,13 @@ Use your data to determine whether the mean or the median better summarizes the 
 
 Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-Requirements
-Conditional Formatting (10 points)
+## Requirements
+## Conditional Formatting (10 points)
 Conditional formatting is applied appropriately to the outcome column (5 points)
 
 Conditional formatting is applied appropriately to the percent funded column (5 points)
 
-Column Creation (10 points)
+## Column Creation (10 points)
 Six new columns were correctly created for:
 
 percent funded
@@ -166,29 +164,29 @@ Date Created Conversion
 
 Date Ended Conversion
 
-Pivot Tables and Stacked Column Charts (15 points)
+## Pivot Tables and Stacked Column Charts (15 points)
 Correctly created a pivot table that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per category (7.5 points)
 
 Correctly created a stacked column pivot chart that can be filtered by country (7.5 points)
 
-Pivot Tables and Line Graphs (15 points)
+## Pivot Tables and Line Graphs (15 points)
 Correctly created a pivot table with a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years (7.5 points)
 
 Correctly created apivot chart line graph (7.5 points)
 
-Written Report (20 points)
+## Written Report (20 points)
 Presents a cohesive written analysis that:
 
 Draws three conclusions from the data (10 points)
 
 States limitations of the dataset and suggestions for additional tables of graph (10 points)
 
-Crowfunding Goal Analysis (10 points)
+## Crowfunding Goal Analysis (10 points)
 Computed calculations of percentages for projects that were successful, failed, or were canceled per goal range (5 points)
 
 Created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation (5 points)
 
-Statistical Analysis (20 points)
+## Statistical Analysis (20 points)
 Computed calculations of the mean, median, min, max, variance, and stdev using Excel formulas (15 points)
 
 A brief and compelling justification of whether the mean or median better summarizes the data (5 points)
