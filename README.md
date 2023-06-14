@@ -13,7 +13,7 @@ Store your Excel workbooks here in this new space, and create a sharable link fo
 ## Files
 Download the following files to help you get started:
 
-Module 1 Challenge filesLinks to an external site.
+excel-challenge-Starter_Code.zip, included in this repo
 
 ## Instructions
 A table contains a database of 1,000 sample crowdfunding projects.
